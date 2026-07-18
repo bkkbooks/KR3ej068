@@ -25,9 +25,9 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR3ej068_001-jc.markers.yaml, hash: 'sha256:72e5102654c24c3df106929d2408559ae35e3b755f5087d513b0a6d79081b671'}
   - {seq: 2, role: markers, filename: assets/KR3ej068_002-jc.markers.yaml, hash: 'sha256:e413adc39f0092326da9fefee533f46211c5a8ada53831160517ada2b1489b46'}
-  - {seq: 3, role: markers, filename: assets/KR3ej068_003-jc.markers.yaml, hash: 'sha256:fe0e916d34e90720abe5fabc028455e836280c24d0677eb9701a399e9bdab9fb'}
+  - {seq: 3, role: markers, filename: assets/KR3ej068_003-jc.markers.yaml, hash: 'sha256:4cdf0b945043e840ac49ad20dc8de5eeee4a6d6f7c458b397f39f0f6c11354b5'}
   - {seq: 4, role: markers, filename: assets/KR3ej068_004-jc.markers.yaml, hash: 'sha256:91c8e91e7cbc74061d50c2590cf0caaf9522788bb077cc4b17c51590db030bef'}
-  - {seq: 5, role: markers, filename: assets/KR3ej068_005-jc.markers.yaml, hash: 'sha256:3e998c00c90b85d18b04a37d2d7613ffa3f88880594da5b0d5862f81fdd28ec5'}
+  - {seq: 5, role: markers, filename: assets/KR3ej068_005-jc.markers.yaml, hash: 'sha256:e345f5a65e5e0cdb1e1d3180aa405f6fc46979580ee5ec1015021cd8957cb03e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1929,4 +1929,4 @@ table_of_contents:
   label: 卷五幼科藥方
   type: section
   level: 1
-hash: sha256:051808bbeffc250974a0ccee21acf3b40383684e8d90b7a05b0449823427aa98
+hash: sha256:81e27bee4ba67778f9d9801f8932ac528963c0d8fc0df091c75c2a83b3519732
